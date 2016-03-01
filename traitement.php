@@ -1,3 +1,3 @@
 <p>Bonjour !</p>
 
-<p>Je sais comment tu t'appelles, hé hé. Tu t'appelles <?php echo $_POST['age']; ?> !</p>
+<p>Je sais comment tu t'appelles, hé hé. Tu t'appelles <?php echo $_POST['pied']; ?> !</p>
