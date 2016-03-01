@@ -1,1 +1,1 @@
-You are <?php echo (int)$_POST['age']; ?> years old.
+You are <?php echo $_POST['age']; ?> years old.
